@@ -1,4 +1,6 @@
-﻿% Copyright
+% Copyright Sadles
+% Дано натуральное число n. Дописать к нему цифру k в конец и в начало.
+
 
 implement main
     open core, console
